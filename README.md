@@ -1,4 +1,6 @@
 #Introduction
+
+
 Online Real Estate Management System is a web-based application related to the online application of estate.
 The biggest advantage of this online real estate site is, it provides an online tool to communicate between owners and tenants.
 This site provide the option for the owner to put an ad on this site, interested user can check out the ad and they can contact the owner for rent, lease, or purchase of the property.
